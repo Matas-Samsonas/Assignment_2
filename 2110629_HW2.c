@@ -1,11 +1,6 @@
 // Matas Samsonas 2110629
 // PS course 1, group 2
 // matas.samsonas@mif.vu.lt
-// *1.Ivesti sveika skaièiu dienu, kiek zmogus mokysis per metus.
-// Paskirstyti jo mokymosi dienas metu eigoje, kiek imanoma, tolygiau (sveikais skaiciais kiekvienam menesiui),
-// t.y.  kad  skirstant  metus  bet  kokio  ilgio  laikotarpiais  (po  1,  2,  3,  4,  ar  6  menesius)
-// mokymosi dienu skaièiai kiekviename periode butu, kiek imanoma, vienodi.
-// Isvesti, kiek zmogus mokysis kiekvienà menesi, ketvirti ir pusmeti. Papildymas: skirstant atsizvelgti á kiekvieno menesio darbo dienu skaiciu.
 #include <stdio.h>
 #include <math.h>
 #define MAXSIZE 12
